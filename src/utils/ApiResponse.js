@@ -7,6 +7,8 @@ class ApiResponse {
     }
 }
 
+export {ApiResponse}
+
 // some HTTP responses status code =>
     
 // informational responses(100 - 199)
